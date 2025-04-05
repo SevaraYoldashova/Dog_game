@@ -1,0 +1,9 @@
+c:\users\sevara\documents\visual studio 2012\Projects\jyuici\jyuici\bin\Debug\jyuici.exe.config
+C:\Users\Sevara\documents\visual studio 2012\Projects\jyuici\jyuici\bin\Debug\jyuici.exe
+C:\Users\Sevara\documents\visual studio 2012\Projects\jyuici\jyuici\bin\Debug\jyuici.pdb
+C:\Users\Sevara\documents\visual studio 2012\Projects\jyuici\jyuici\obj\Debug\jyuici.csprojResolveAssemblyReference.cache
+C:\Users\Sevara\documents\visual studio 2012\Projects\jyuici\jyuici\obj\Debug\jyuici.Form1.resources
+C:\Users\Sevara\documents\visual studio 2012\Projects\jyuici\jyuici\obj\Debug\jyuici.Properties.Resources.resources
+C:\Users\Sevara\documents\visual studio 2012\Projects\jyuici\jyuici\obj\Debug\jyuici.csproj.GenerateResource.Cache
+C:\Users\Sevara\documents\visual studio 2012\Projects\jyuici\jyuici\obj\Debug\jyuici.exe
+C:\Users\Sevara\documents\visual studio 2012\Projects\jyuici\jyuici\obj\Debug\jyuici.pdb
